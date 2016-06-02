@@ -1,0 +1,41 @@
+PySudoku
+========
+Author:  Daniel Lindsley <polarcowz@gmail.com>
+Created: 2005/08/08
+Purpose: Provide a friendly, cross-platform Sudoku game utilizing Python/PyGame.
+Current Version: 0.5
+
+Notes: Please be aware that new, single-solution Sudoku's can NOT yet be generated. Only the basic structure is in place at this time. Attempts to solve the Sudoku's created by running this program will likely fail at this time.
+
+
+
+Releases
+========
+0.4
+* Initial public release
+* Most of the UI complete & responsive
+
+0.5
+* Set caption to current puzzle number
+* Begin developing logic for generating Sudoku's
+
+0.6
+- Create good solutions
+- Generate initals off of these
+
+0.7
+- Add "Start Over" button
+- Add "New" button
+- Add a timer
+
+0.8
+- Add "Solve" button
+- Add an enterable puzzle number
+
+0.9
+- Add difficulty chooser
+- Add "Hint" button
+
+1.0
+- Create a "You've won!" event
+- Add sound effects
